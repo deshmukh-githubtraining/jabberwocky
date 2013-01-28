@@ -1,3 +1,3 @@
-
+Changing to test merge, no conflict, but with merge message
 This was made in feature2 branch
 also made in feature2 branch
