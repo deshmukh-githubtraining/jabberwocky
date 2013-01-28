@@ -1,3 +1,5 @@
 This was made in feature2 branch
 
 This change was made in feature2 before rebasing
+
+This change was made in master before rebasing for the second time in ilovegit branch
